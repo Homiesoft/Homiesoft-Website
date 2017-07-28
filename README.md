@@ -1,2 +1,2 @@
-# homiesoft.github.io
-The company's webpage.
+# Homiesoft
+This is a readme for the company's webpage.
