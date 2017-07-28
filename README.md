@@ -1,2 +1,2 @@
 # Homiesoft
-This is a readme for the company's webpage.
+Welcome to Homiesoft, where we got your back.
