@@ -22,7 +22,7 @@ Samples of Java code all under one application.
 A 3D flight simulator created with LibGDX.
 
 [Link to project](https://github.com/Homiesoft/FlightSim)
-## Python samples
+### Python samples
 Code samples in Python
 
 [Link to project](https://github.com/Homiesoft/PySolutions)
