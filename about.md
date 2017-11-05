@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: alt1
 title: About
 description: This is an about page
 navbar: false
