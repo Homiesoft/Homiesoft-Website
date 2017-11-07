@@ -1,0 +1,9 @@
+---
+title: About
+description: This is an about page.
+navbar: false
+---
+theme: jekyll-theme-cayman
+sass:
+  style: compressed
+
