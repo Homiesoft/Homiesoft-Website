@@ -1,3 +1,9 @@
+---
+title: Jeff Chin
+description: A repository for my public projects.
+navbar: false
+---
+
 # Projects
 ## Artwork Quiz [![Artwork Quiz Logo](./img/artquiz.png)](https://play.google.com/store/apps/details?id=com.homefriend.artquiz.android)
 

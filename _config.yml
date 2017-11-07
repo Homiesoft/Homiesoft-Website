@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
-title: Jeff Chin
-description: A repository for my public projects.
 sass:
   style: compressed
 
